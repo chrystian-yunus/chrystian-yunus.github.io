@@ -1,0 +1,16 @@
+title: Chrystian Dwi P. Yunus
+baseurl: ""
+url: "https://chrystian-yunus.github.io"
+
+plugins:
+  - jekyll-seo-tag
+
+# GitHub Actions deployment (bypasses github-pages gem restriction)
+
+
+exclude:
+  - preference.txt
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
